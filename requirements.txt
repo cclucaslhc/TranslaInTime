@@ -1,0 +1,13 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+numpy>=1.26
+faster-whisper>=1.1
+ctranslate2>=4.5
+argostranslate>=1.9
+nvidia-cublas-cu12>=12.9
+nvidia-cudnn-cu12>=9.23
+nvidia-cuda-runtime-cu12>=12.9
+nvidia-cuda-nvrtc-cu12>=12.9
+sounddevice>=0.5
+PySide6>=6.11
+pyinstaller>=6.21
